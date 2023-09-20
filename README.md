@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Petyo156
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java at Softuni
+- 🏫 Technical University Varna
 
 <!---
 Petyo156/Petyo156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
